@@ -3,7 +3,7 @@ https://docs.google.com/document/d/1hNrWtPQ8_Mc9PpwksHeYbJL3kSzEJLRHBUIHqADImRU/
 
 --------------------------------------
 ### Problem Definition Related:
--
+
  #### GPI Definition/Equation (or Lanfall TCs Count)
  - https://agupubs.onlinelibrary.wiley.com/doi/full/10.3894/JAMES.2010.2.1 （GPI Definition) 
  - https://www.pnas.org/doi/10.1073/pnas.1301293110
@@ -17,7 +17,6 @@ https://docs.google.com/document/d/1hNrWtPQ8_Mc9PpwksHeYbJL3kSzEJLRHBUIHqADImRU/
 - Study suggesting using ENSO for TC genesis prediction: https://journals.ametsoc.org/view/journals/clim/33/24/jcliD200255.xml
 - Converting data into representative index like GPI: https://doi.org/10.1175/WAF-D-15-0062.1
 - Transfer Learning: https://doi.org/10.1007/s13351-022-1174-7
-- 
 
 --------------------------------------
 ### Databases/Features Related:
@@ -41,7 +40,7 @@ https://docs.google.com/document/d/1hNrWtPQ8_Mc9PpwksHeYbJL3kSzEJLRHBUIHqADImRU/
  - Nino Index: https://www.climate.gov/news-features/understanding-climate/climate-variability-oceanic-ni%C3%B1o-index
 --------------------------------------
 ### Model Architecture Related:
--
+
  #### Baseline SVR
  - https://doi.org/10.1016/j.procs.2012.09.069
 
