@@ -13,21 +13,30 @@ https://docs.google.com/document/d/1hNrWtPQ8_Mc9PpwksHeYbJL3kSzEJLRHBUIHqADImRU/
 
 --------------------------------------
 ### General Approach Related:
--
+- DL using simulated data: https://ibm.enterprise.slack.com/files/U0419SXRD4H/F0418KJ2P6E/seasonal_precipitation_prediction.pdf?origin_team=T0D0Z6X2N&origin_channel=C040X85F2SE
 
+- Study suggesting using ENSO for TC genesis prediction: https://journals.ametsoc.org/view/journals/clim/33/24/jcliD200255.xml
 
 --------------------------------------
 ### Databases/Features Related:
  #### Reanalysis Data
- 
+ - ORAS5: https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-oras5?tab=overview
+ - SODA
+ - ERA5: https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5
+
  #### Simulated Data
  - CESM: https://www.cesm.ucar.edu/experiments/cesm1.0/#20thc
  - CMIP6: https://esgf-node.llnl.gov/projects/cmip6/
+ - CMIP6 + Reanalysis (SSH): https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-water-level-change-timeseries-cmip6?tab=overview
+ - NMME: https://www.cpc.ncep.noaa.gov/products/NMME/
  
  #### Observation Data
  - SSTs: https://www.ncdc.noaa.gov/oisst/optimum-interpolation-sea-surface-temperature-oisst-v21, https://podaac.jpl.nasa.gov/dataset/MUR-JPL-L4-GLOB-v4.1, https://registry.opendata.aws/mur/
  - Salinity: https://salinity.oceansciences.org/oi-anomaly.htm
+ - HadISST: https://www.metoffice.gov.uk/hadobs/hadisst/
 
+ #### Other Features (not sure which data type above it belongs to)
+ - Nino Index: https://www.climate.gov/news-features/understanding-climate/climate-variability-oceanic-ni%C3%B1o-index
 --------------------------------------
 ### Model Architecture Related:
 -
