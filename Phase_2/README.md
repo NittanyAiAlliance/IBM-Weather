@@ -9,6 +9,13 @@ https://docs.google.com/document/d/1hNrWtPQ8_Mc9PpwksHeYbJL3kSzEJLRHBUIHqADImRU/
  - https://www.pnas.org/doi/10.1073/pnas.1301293110
  
  #### Notes
+ - absolute vorticity of the 850 hPa flow
+ - potential intensity
+ - magnitude of the 850 hPa–250 hPa wind shear
+ - saturation moist static energy of the free troposphere
+ - representative value of the actual moist static energy of the middle troposphere
+ - saturation moist static energy of the sea surface
+ 
  
 
 --------------------------------------
