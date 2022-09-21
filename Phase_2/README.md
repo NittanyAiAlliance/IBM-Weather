@@ -43,20 +43,19 @@ https://docs.google.com/document/d/1hNrWtPQ8_Mc9PpwksHeYbJL3kSzEJLRHBUIHqADImRU/
 ### Model Architecture Related:
 -
  #### Baseline SVR
- 
+ - https://doi.org/10.1016/j.procs.2012.09.069
+
  #### Proposed CNN
+ - https://iopscience-iop-org.ezaccess.libraries.psu.edu/article/10.1088/1741-2552/aace8c
  
  #### Other Models
-
+ - ANN: https://doi.org/10.1007/s00703-016-0446-0
 --------------------------------------
 ### Model Explainability Related:
 
  #### SVR Related
- - https://doi.org/10.1016/j.procs.2012.09.069
  
  #### CNN Related
-
- #### Other Models
- - https://doi.org/10.1007/s00703-016-0446-0
+ 
 --------------------------------------
 ### Others
