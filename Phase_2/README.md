@@ -14,8 +14,10 @@ https://docs.google.com/document/d/1hNrWtPQ8_Mc9PpwksHeYbJL3kSzEJLRHBUIHqADImRU/
 --------------------------------------
 ### General Approach Related:
 - DL using simulated data: https://ibm.enterprise.slack.com/files/U0419SXRD4H/F0418KJ2P6E/seasonal_precipitation_prediction.pdf?origin_team=T0D0Z6X2N&origin_channel=C040X85F2SE
-
 - Study suggesting using ENSO for TC genesis prediction: https://journals.ametsoc.org/view/journals/clim/33/24/jcliD200255.xml
+- Converting data into representative index like GPI: https://doi.org/10.1175/WAF-D-15-0062.1
+- Transfer Learning: https://doi.org/10.1007/s13351-022-1174-7
+- 
 
 --------------------------------------
 ### Databases/Features Related:
@@ -50,9 +52,11 @@ https://docs.google.com/document/d/1hNrWtPQ8_Mc9PpwksHeYbJL3kSzEJLRHBUIHqADImRU/
 ### Model Explainability Related:
 
  #### SVR Related
- 
+ - https://doi.org/10.1016/j.procs.2012.09.069
  
  #### CNN Related
 
+ #### Other Models
+ - https://doi.org/10.1007/s00703-016-0446-0
 --------------------------------------
 ### Others
