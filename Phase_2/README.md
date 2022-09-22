@@ -15,6 +15,7 @@ https://docs.google.com/document/d/1hNrWtPQ8_Mc9PpwksHeYbJL3kSzEJLRHBUIHqADImRU/
  - saturation moist static energy of the free troposphere
  - representative value of the actual moist static energy of the middle troposphere
  - saturation moist static energy of the sea surface
+ - Code for GPI Calculation and Processing: https://doi.org/10.7910/DVN/PDJ34K
  
  
 
