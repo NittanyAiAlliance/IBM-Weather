@@ -5,9 +5,13 @@ https://docs.google.com/document/d/1hNrWtPQ8_Mc9PpwksHeYbJL3kSzEJLRHBUIHqADImRU/
 ### Problem Definition Related:
 
  #### GPI Definition/Equation (or Lanfall TCs Count)
- - https://agupubs.onlinelibrary.wiley.com/doi/full/10.3894/JAMES.2010.2.1 （GPI Definition) 
+ - https://agupubs.onlinelibrary.wiley.com/doi/full/10.3894/JAMES.2010.2.1 （EGPI Definition, Emanuel, 2010) 
+ - https://texmex.mit.edu/pub/emanuel/PAPERS/em_nolan_extended_2004.pdf (ENGPI Definition, Emanuel & Nolan, 2004)
  - https://www.pnas.org/doi/10.1073/pnas.1301293110
- - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://texmex.mit.edu/pub/emanuel/PAPERS/bisteremanuel98.pdf (potential intensity)
+ - https://texmex.mit.edu/pub/emanuel/PAPERS/bisteremanuel98.pdf (potential intensity)
+ - https://www.nature.com/articles/s43247-022-00410-z#Equ3 (DGPI)
+
+ - 
  
  #### Notes
  - absolute vorticity of the 850 hPa flow
