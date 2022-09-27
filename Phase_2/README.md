@@ -7,6 +7,7 @@ https://docs.google.com/document/d/1hNrWtPQ8_Mc9PpwksHeYbJL3kSzEJLRHBUIHqADImRU/
  #### GPI Definition/Equation (or Lanfall TCs Count)
  - https://agupubs.onlinelibrary.wiley.com/doi/full/10.3894/JAMES.2010.2.1 （GPI Definition) 
  - https://www.pnas.org/doi/10.1073/pnas.1301293110
+ - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://texmex.mit.edu/pub/emanuel/PAPERS/bisteremanuel98.pdf (potential intensity)
  
  #### Notes
  - absolute vorticity of the 850 hPa flow
