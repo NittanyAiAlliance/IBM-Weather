@@ -36,21 +36,21 @@ https://docs.google.com/document/d/1hNrWtPQ8_Mc9PpwksHeYbJL3kSzEJLRHBUIHqADImRU/
  #### Reanalysis Data
  - ORAS5: https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-oras5?tab=overview
  - SODA
- - ERA5: https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5
+ - ERA5: https://confluence.ecmwf.int/display/CKB/The+family+of+ERA5+datasets#
 
  #### Simulated Data
  - CESM: https://www.cesm.ucar.edu/experiments/cesm1.0/#20thc
  - CMIP6: https://esgf-node.llnl.gov/projects/cmip6/
  - CMIP6 + Reanalysis (SSH): https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-water-level-change-timeseries-cmip6?tab=overview
  - NMME: https://www.cpc.ncep.noaa.gov/products/NMME/
- 
- #### Observation Data
- - SSTs: https://www.ncdc.noaa.gov/oisst/optimum-interpolation-sea-surface-temperature-oisst-v21, https://podaac.jpl.nasa.gov/dataset/MUR-JPL-L4-GLOB-v4.1, https://registry.opendata.aws/mur/
- - Salinity: https://salinity.oceansciences.org/oi-anomaly.htm
- - HadISST: https://www.metoffice.gov.uk/hadobs/hadisst/
 
  #### Other Features (not sure which data type above it belongs to)
- - Nino Index: https://www.climate.gov/news-features/understanding-climate/climate-variability-oceanic-ni%C3%B1o-index
+ - Southern Oscillation Index: https://www.ncei.noaa.gov/access/monitoring/enso/soi
+ - Nino Index: https://www.ncei.noaa.gov/access/monitoring/enso/sst
+ - QBO: https://climatedataguide.ucar.edu/climate-data/qbo-quasi-biennial-oscillation
+ 
+ #### TC Count
+ - IBTrACS: https://www.ncei.noaa.gov/products/international-best-track-archive?name=introduction
 --------------------------------------
 ### Model Architecture Related:
 
