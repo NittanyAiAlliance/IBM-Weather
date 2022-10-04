@@ -36,7 +36,8 @@ https://docs.google.com/document/d/1hNrWtPQ8_Mc9PpwksHeYbJL3kSzEJLRHBUIHqADImRU/
  #### Reanalysis Data
  - ORAS5: https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-oras5?tab=overview
  - SODA
- - ERA5: https://confluence.ecmwf.int/display/CKB/The+family+of+ERA5+datasets#
+ - ERA5 (server currently down): https://confluence.ecmwf.int/display/CKB/The+family+of+ERA5+datasets#
+ - MERRA: https://gmao.gsfc.nasa.gov/reanalysis/MERRA/
 
  #### Simulated Data
  - CESM: https://www.cesm.ucar.edu/experiments/cesm1.0/#20thc
